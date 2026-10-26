@@ -1,0 +1,6 @@
+{
+  "name": "Circuitos Eléctricos UTPL - Semana 3",
+  "description": "Suite interactiva docente para la enseñanza de las Leyes de Kirchhoff (LCK, LVK), resistores en serie/paralelo, divisores de voltaje y corriente, ejemplos guiados y autoevaluación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
